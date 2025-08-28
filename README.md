@@ -1,9 +1,19 @@
-# odin-recipes
+# Odin Project: Recipes
 
-This is a basic recipe website.
+## What is this?
 
-The website will consist of a main index page which will have links to
-a few recipes. The website won’t look very pretty by the time you’ve 
-finished but it’s important to keep in mind that the purpose of this 
-project is to build your HTML chops; we will revisit this project in 
-the future to style it up with CSS.
+This is a basic html recipe website instructed by Odin wherein it contains a homepage and links to various recipe pages. 
+
+A recipe page includes a recipe title, corresponding image, caption for the image, recipe description, ingredients, and steps. It also contains links both to go back to the homepage, as well as to return to the top of the current page.
+
+## Concepts Used
+
+ * HTML Boilerplate
+ * Semantic HTML (`<strong>`, `<em>`,`<h1>`, etc.)
+ * Hyperlinks/Anchor tags (`<a>` with `href="..."`)
+ * Image tags (`<img>` with `src="..."`)
+ * Git and GitHub
+ * Detailed commits
+ * Lists (`<ul>`, `<ol>`, `<li>`)
+
+
