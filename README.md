@@ -16,4 +16,14 @@ A recipe page includes a recipe title, corresponding image, caption for the imag
  * Detailed commits
  * Lists (`<ul>`, `<ol>`, `<li>`)
 
+ ## GitHub Page
+
+ The following link redirects you to the project's end result:
+ [Live Demonstration]()
+
+ ## Future Development
+
+ * Add CSS and JS
+ * Optimize readability to all devices, espically mobile
+
 
