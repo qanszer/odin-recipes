@@ -19,7 +19,7 @@ A recipe page includes a recipe title, corresponding image, caption for the imag
  ## GitHub Page
 
  The following link redirects you to the project's end result:
- [Live Demonstration]()
+ [Live Demonstration](https://qanszer.github.io/odin-recipes/)
 
  ## Future Development
 
