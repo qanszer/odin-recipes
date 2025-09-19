@@ -1,0 +1,36 @@
+html {
+ box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+ box-sizing: inherit;
+}
+
+* {
+ margin: 0px;
+ padding: 0px;
+ }
+
+a {
+ text-decoration: none;
+ color: #e4e7ec;
+}
+
+body {
+ background-color: #2e3541;
+}
+
+h1, p, h3 {
+    color: #e4e7ec;
+}
+
+.main.container {
+    padding: 50px;
+}
+
+h1 {
+    align-content: center;
+    font-size: 100px;
+}
