@@ -31,6 +31,39 @@ h1, p, h3 {
 }
 
 h1 {
-    align-content: center;
     font-size: 100px;
+    text-align: center;
 }
+
+.h1.title {
+    font-size: 20px;
+    text-align: center;
+}
+
+.section {
+    margin-bottom: 50px;
+}
+
+.first.section {
+    height: 550px;
+    width: auto;
+}
+
+.second.section {
+    height: 500px;
+    width: auto;
+}
+
+.items.container h3 {
+    display: inline-block;
+    font-size: 40px;
+    padding: 10px 30px;
+    margin-bottom: 50px;
+}
+
+.items.container {
+    text-align: center;
+}
+
+
+
